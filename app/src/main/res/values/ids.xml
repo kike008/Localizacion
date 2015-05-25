@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="uno" type="id" />
+    <item name="dos" type="id" />
+    <item name="tres" type="id" />
+    <item name="cuatro" type="id" />
+    <item name="cinco" type="id" />
+</resources>

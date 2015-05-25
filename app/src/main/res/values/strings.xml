@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Localizacion</string>
+
+    <string name="terreno1">Normal</string>
+    <string name="terreno2">Hibrido</string>
+    <string name="terreno3">Satelite</string>
+    <string name="terreno4">Terreno</string>
+    <string name="terreno5">None</string>
+
+</resources>
